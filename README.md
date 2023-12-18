@@ -1,6 +1,3 @@
-Certainly! Here's a template for your GitHub README:
-
-```markdown
 # Quantum Coding Exploration with Qiskit
 
 Welcome to my quantum coding journey using Qiskit! This repository contains my initial attempts at coding in Qiskit as I embark on the exciting path of quantum algorithm research. Here, I'll be documenting my progress, experiments, and the quantum programs I create.
